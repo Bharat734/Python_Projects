@@ -1,0 +1,1 @@
+blink ="https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,sexist,explicit&type=twopart"
